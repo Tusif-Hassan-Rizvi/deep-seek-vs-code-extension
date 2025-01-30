@@ -67,6 +67,7 @@ function getWebviewContent(): string {
             margin-top: 1rem;
             padding: 0.5rem;
             min-height: 200px;
+            border-radius:5px;
         }
     </style>
 </head>
