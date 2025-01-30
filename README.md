@@ -1,5 +1,7 @@
 # Create VS Code Extension
 
+### If you want to setup new project
+
 Step 1
 
 ```bash
@@ -12,7 +14,13 @@ Step 2
  yo code
 ```
 
+### Use this project
+
 Step 3
+
+```bash
+npm install
+```
 
 ```bash
 ctrl + p
@@ -28,7 +36,6 @@ Step 4: select first option > Run Extension
 
 Step 5: Open new Vs Code window > select Chat with DeepSeek
 ![alt text](image-1.png)
-
 
 Step 6: chat with DeepSeek
 ![alt text](image-2.png)
