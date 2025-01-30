@@ -1,4 +1,4 @@
-#Create VS Code Extension
+# Create VS Code Extension
 
 Step 1
 
