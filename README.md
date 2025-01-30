@@ -1,7 +1,12 @@
 # Create VS Code Extension
 
-### If you want to setup new project
+```*Note: Before running this project, download and install Ollama on your system from here:```
 
+```bash
+https://ollama.com/download
+```
+
+### If you want to setup new project
 Step 1
 
 ```bash
