@@ -1,4 +1,4 @@
-# Create VS Code Extension
+# DeepSeek VS Code Extension
 
 ```*Note: Before running this project, download and install Ollama on your system from here:```
 

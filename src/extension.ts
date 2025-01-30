@@ -73,7 +73,7 @@ function getWebviewContent(): string {
 </head>
 
 <body>
-    <h2>Deep VS Code Extension</h2>
+    <h2>DeepSeek VS Code Extension</h2>
     <textarea id="prompt" rows="3" placeholder="Ask something..."></textarea>
     <button id="askBtn">Ask</button>
     <div id="response"></div>
